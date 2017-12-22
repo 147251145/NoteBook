@@ -1,3 +1,6 @@
 # NoteBook
 
-閫氳繃SQLite鏁版嵁搴撳疄鐜板偍瀛樼殑绠�鏄撳畨鍗撹浜嬫湰
+通过SQLite数据库实现储存的简易安卓记事本
+
+修改了长按事件的返回值为true详细可看
+https://www.cnblogs.com/zsychanpin/p/6795709.html

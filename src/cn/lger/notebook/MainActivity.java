@@ -78,7 +78,7 @@ public class MainActivity extends Activity {
 														.show();
 											}
 										}).setNegativeButton("È¡Ïû", null).show();
-						return false;
+						return true;
 					}
 				});
 
